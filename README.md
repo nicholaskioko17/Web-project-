@@ -1,1 +1,1 @@
-I had to change some file names as they were not coorect.
+I had to change some file names as they were not correct.
